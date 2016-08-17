@@ -5,3 +5,6 @@ Messages per month, by sender. Define `relationship start` as date of first mess
 
 ## Conversation habit analysis
 Time-of-day heatmap, by week (like GitHub punchcard).
+
+Sender diversity analysis: how many different people do I speak to per day? How does that vary over time?
+
